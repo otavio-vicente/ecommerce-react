@@ -30,21 +30,20 @@ git clone https://github.com/seu-usuario/ecommerce-react.git
 cd ecommerce-react.git
 ```
 
-2. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/ecommerce-react.git
-cd ecommerce-react.git
-```
-
-3. Instale as dependências::
+2. Instale as dependências::
 
 ```bash
 npm install
 ```
 
+3. Rode o projeto em ambiente de desenvolvimento:
+
+```bash
+npm run dev
+```
+
 4. Acesse o navegador:
 
 ```bash
-npm run dev](http://localhost:5173)
+(http://localhost:5173)
 ```
